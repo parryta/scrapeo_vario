@@ -1,0 +1,23 @@
+Welcome to my new file 
+TIMESTAMP 	2016-08-22 00:11:30.997292
+ --------BBVA 5.80
+YHOO 43.10
+AAPL 109.46
+GOOG 775.88
+MSFT 57.94
+Welcome to my new file 
+TIMESTAMP 	2016-08-22 00:12:53.246247
+ -------- 
+BBVA 5.80
+YHOO 43.10
+AAPL 109.46
+GOOG 775.88
+MSFT 57.94
+Welcome to my new file 
+TimeStamp ---> 	2016-08-22 00:13:48.836484
+ -------- 
+BBVA 5.80
+YHOO 43.10
+AAPL 109.46
+GOOG 775.88
+MSFT 57.94
